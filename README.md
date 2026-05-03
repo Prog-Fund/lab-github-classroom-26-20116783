@@ -18,8 +18,8 @@ Name: Nikita Zdunek
 
   I struggled with time on this assignment. My work with the Defence Forces and Inland Fisheries      
   Ireland made it difficult to find consistent time to dedicate to it and also meant I could not attend
-  classes as regularly as I would have liked. Given more time I would have liked to have done more with it but I understand what I   
-  have submitted.
+  classes as regularly as I would have liked. Given more time I would have liked to have done more with 
+  it but I understand what I have submitted.
 
   The reference projects provided on Moodle, SocialNetworkV9.0 and ShopV8.0, were used to understand the 
   overall project structure. I used Claude (claude.ai) as an AI tool throughout this assignment to help
@@ -27,5 +27,5 @@ Name: Nikita Zdunek
   were generated with the help of Claude, guided by the assignment spec and the boundary value analysis
   approach covered in class.
 
-  This is my work apart from the specific references noted above (and any code from class notes). I      
+  This is my work apart from the specific references noted above. I      
   understand the code and can describe it if needed.
